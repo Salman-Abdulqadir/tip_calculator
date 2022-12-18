@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/tip_calculator/static/js/main.c0dfddc4.js",
+    "static/js/787.364622ff.chunk.js": "/tip_calculator/static/js/787.364622ff.chunk.js",
+    "static/media/logo.svg": "/tip_calculator/static/media/logo.3cc0528bd46321d63d85702006069614.svg",
+    "index.html": "/tip_calculator/index.html",
+    "main.c0dfddc4.js.map": "/tip_calculator/static/js/main.c0dfddc4.js.map",
+    "787.364622ff.chunk.js.map": "/tip_calculator/static/js/787.364622ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c0dfddc4.js"
+  ]
+}
